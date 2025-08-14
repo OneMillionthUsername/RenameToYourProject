@@ -1,4 +1,4 @@
-# This is any empty project, set up with a recommended structure for NodeJs Express apps.
+# This is an empty project, set up with a recommended structure for NodeJs Express apps.
 
 ## install
 
@@ -33,5 +33,6 @@ npm install express
 - write your own code now
 
 # Done
+
 
 

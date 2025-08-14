@@ -9,7 +9,7 @@
 - clone this repository
 - add a specific download path or leave it empty.
 ```
-git clone https://github.com/OneMillionthUsername/EmptyNodeJSStructureForProjects <download-path>
+git clone https://github.com/OneMillionthUsername/RenameToYourProject <download-path>
 ```
 - rename the folder `EmptyNodeJSStructureForProjects` to your projects name
 - remove the old remote repository link
@@ -31,4 +31,5 @@ npm install express
 ```
 
 - You can write your own code now
+
 # Done

@@ -29,8 +29,9 @@ git push -u origin main
 npm init -y
 npm install express
 ```
-
-- You can write your own code now
+- create your .gitignore and change the readme
+- write your own code now
 
 # Done
+
 

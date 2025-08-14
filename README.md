@@ -1,5 +1,6 @@
 # This is an empty project, set up with a recommended structure for NodeJs Express apps.
-
+Mainly following the guides on GeeksforGeeks and other security sources.
+https://www.geeksforgeeks.org/node-js/express-js/
 ## install
 
 - create an empty repository on your GitHub
@@ -33,6 +34,7 @@ npm install express
 - write your own code now
 
 # Done
+
 
 
 

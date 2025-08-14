@@ -11,7 +11,7 @@
 ```
 git clone https://github.com/OneMillionthUsername/RenameToYourProject <download-path>
 ```
-- rename the folder `EmptyNodeJSStructureForProjects` to your projects name
+- rename the folder `RenameToYourProject` to your projects name
 - remove the old remote repository link
 ```
 git remote remove origin
@@ -33,3 +33,4 @@ npm install express
 - You can write your own code now
 
 # Done
+
